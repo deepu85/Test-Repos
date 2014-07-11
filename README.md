@@ -1,4 +1,4 @@
 Test-Repos
 ==========
 
-Checking out
+Checking by running few examples
